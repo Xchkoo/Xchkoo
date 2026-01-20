@@ -2,7 +2,7 @@
 
 ### CS student developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xchkoo&label=Profile views&color=0e75b6&style=flat" alt="Xchkoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xchkoo&label=Profile views&color=0e75b6&style=flat&base=1" alt="Xchkoo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xchkoo" alt="Xchkoo" /></a> </p>
 
