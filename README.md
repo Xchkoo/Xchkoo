@@ -1,5 +1,4 @@
-<img src="https://github.com/Xchkoo/Xchkoo/blob/master/svg.svg" alt="I'm Xchkoo"/>
-
+<img src="https://github.com/Xchkoo/Xchkoo/blob/2549a596542e7bf1f361453bd67cf87a881049e7/svg.svg" alt="I'm Xchkoo"/>
 
 # Hi 👋, I'm Xchkoo
 
