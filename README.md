@@ -1,10 +1,9 @@
+<img src="https://github.com/Xchkoo/Xchkoo/blob/master/svg.svg" alt="I'm Xchkoo"/>
+
+
 # Hi 👋, I'm Xchkoo
 
 ### CS student developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xchkoo&label=Profile views&color=0e75b6&style=flat&base=1" alt="Xchkoo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xchkoo" alt="Xchkoo" /></a> </p>
 
 - 🔭 I'm currently working on **an AI powered smart notes and ledger combination app called Xmem**
 
@@ -20,7 +19,7 @@
 
 - ⚡ Fun fact **probably spends too much time on galgame and visual novels.**
 
-- 📝 I regularly write articles on **[https://xchkoo.top](https://xchkoo.top)**
+- 📝 I regularly write articles on **[my blog](https://xchkoo.top)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,5 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xchkoo&show_icons=true&locale=en" alt="Xchkoo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xchkoo&" alt="Xchkoo" /></p>
 
